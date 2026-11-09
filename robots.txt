@@ -1,5 +1,5 @@
 User-Agent: *
 Allow: /
 
-Host: https://hitashuji.github.io/website
-Sitemap: https://hitashuji.github.io/website/sitemap.xml
+Host: https://hitanshu.jishtu.com
+Sitemap: https://hitanshu.jishtu.com/sitemap.xml
