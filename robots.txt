@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://hitashuji.github.io/website
+Sitemap: https://hitashuji.github.io/website/sitemap.xml
